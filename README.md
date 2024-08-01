@@ -1,2 +1,3 @@
-# transgender-healthcare/sql-dumps
-*FUTURE* Compressed SQL dump of databases in .sql.gz
+# transgender-healthcare/datasets
+*FUTURE* Compressed (Gzip) SQL statements to rebuild/clone our production database.
+We plan for an update every 24 hours.
